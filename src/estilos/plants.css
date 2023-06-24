@@ -1,0 +1,38 @@
+.contenedor-planta {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:azure;
+    box-shadow:0px 6px 13px 1px rgb(0 0 0 /9%);
+}   
+.imagen-planta {
+    height: 100%;
+    width: auto;
+
+}
+.contenedor-textos {
+    text-align: center;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    line-height: 1.5rem;
+    
+
+
+}
+.nombre-planta{
+    font-size: 1.3rem;
+
+}
+.especie-planta{
+    font-size: 1.3rem;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.caracteristicas-planta{
+   font-size: 1.3rem; 
+   text-align: justify;
+}
